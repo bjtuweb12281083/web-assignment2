@@ -1,0 +1,48 @@
+a:link {
+	color:#0000CC;
+}		
+a:hover {
+	color:#0000CC;
+}	
+a:visited {
+	color:#0000CC;
+}
+#i{
+	padding-bottom: 15px;
+}
+#hide{
+	float: right;
+}
+.hide {
+	display:none;
+}
+table{
+    	margin:0 auto; /*±í¸ñ¾ÓÖÐ*/
+	text-align:left;
+   	 border-collapse:collapse;
+    	padding-top: 200px;
+  }
+table, td, th{
+  	padding : 8px;
+ 	 padding-left: 20px;
+ 	 border:1px solid #EEEEEE;
+  }
+td{
+	 font-size:15px;
+	 border:0px solid #FFFFFF;
+ }
+#c { 
+	width:36px; height: 400px; position:fixed;right:50px;top:30%
+ }
+#1{
+	padding-top: 1200px;
+	padding-bottom: 0px;
+	font-size: 15px;
+}
+#2{
+	padding-bottom:0px;
+	font-size: 15px;
+}
+#3{
+	font-size: 15px;
+}
